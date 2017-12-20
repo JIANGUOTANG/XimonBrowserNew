@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XimonBrowser.iml" filepath="$PROJECT_DIR$/XimonBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad/ad.iml" filepath="$PROJECT_DIR$/ad/ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camer/camer.iml" filepath="$PROJECT_DIR$/camer/camer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flight/flight.iml" filepath="$PROJECT_DIR$/flight/flight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpiotest/gpiotest.iml" filepath="$PROJECT_DIR$/gpiotest/gpiotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipctest/ipctest.iml" filepath="$PROJECT_DIR$/ipctest/ipctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latte-annotations/latte-annotations.iml" filepath="$PROJECT_DIR$/latte-annotations/latte-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock/stock.iml" filepath="$PROJECT_DIR$/stock/stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ximon/ximon.iml" filepath="$PROJECT_DIR$/ximon/ximon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ximon-core/ximon-core.iml" filepath="$PROJECT_DIR$/ximon-core/ximon-core.iml" />
+    </modules>
+  </component>
+</project>

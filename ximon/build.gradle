@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'jian'
+            keyPassword 'jianguotang'
+            storeFile file('E:/key/ximon.jks')
+            storePassword 'jianguotang'
+        }
+    }
+    sourceSets{
+        main{
+            jniLibs.srcDir 'libs'
+            //说明so的路径为该libs路径，关联所有地图SDK的so文件
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    dexOptions {
+        jumboMode true
+    }
+    defaultConfig {
+        applicationId "jian.com.ximon"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        vectorDrawables.useSupportLibrary = true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //图片选择
+    compile 'com.github.LuckSiege.PictureSelector:picture_library:v2.1.6'
+    compile 'com.android.support:recyclerview-v7:26.1.0'
+    compile 'com.android.support:cardview-v7:26.+'
+    //网络请求
+    compile 'com.squareup.okhttp3:okhttp:3.9.0'
+    compile 'com.squareup.okio:okio:1.13.0'
+    compile 'org.greenrobot:eventbus:3.1.1'
+    compile project(':ximon-core')
+    //gson
+    compile 'com.google.code.gson:gson:2.8.2'
+    compile('com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0@aar') {
+        transitive = true
+    }
+    //图片
+    compile 'com.github.chrisbanes:PhotoView:2.1.3'
+    //播放器
+    compile 'com.devbrackets.android:exomedia:4.0.3'
+    //    compile project(':camer')
+    //  视频缓存
+    compile 'com.danikula:videocache:2.7.0'
+    //
+    compile 'com.android.support:multidex:1.0.1'
+    compile project(':camer')
+    compile files('libs/gpio.jar')
+    compile 'com.alibaba:fastjson:1.1.67.android'
+    compile 'xiaofei.library:hermes-eventbus:0.3.0'
+    compile files('libs/BaiduLBS_Android.jar')
+}

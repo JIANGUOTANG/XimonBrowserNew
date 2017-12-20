@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutEditor"
+        android:layout_width="100dp"
+        android:layout_height="56dp"
+        android:layout_margin="2dp"
+        android:gravity="center">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_margin="2dp"
+            app:srcCompat="@drawable/ic_editor" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="编辑" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutDelete"
+        android:layout_width="100dp"
+        android:layout_height="56dp"
+        android:layout_margin="2dp"
+        android:gravity="center">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_margin="2dp"
+            app:srcCompat="@drawable/ic_machine_delete" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="删除" />
+    </LinearLayout>
+
+</LinearLayout>

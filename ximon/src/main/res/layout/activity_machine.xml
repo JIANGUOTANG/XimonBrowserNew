@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBg"
+    android:orientation="vertical">
+    <include layout="@layout/toor_bar"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView_machineList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btAddMachine"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_bg"
+            android:text="添加广告机"
+            android:textColor="@color/white" />
+        <!--<Button-->
+            <!--android:id="@+id/btBatch"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/btn_bg"-->
+            <!--android:text="批量管理"-->
+            <!--android:layout_marginLeft="16dp"-->
+            <!--android:textColor="@color/white" />-->
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ad" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/camer" />
+            <option value="$PROJECT_DIR$/flight" />
+            <option value="$PROJECT_DIR$/gpiotest" />
+            <option value="$PROJECT_DIR$/ipctest" />
+            <option value="$PROJECT_DIR$/latte-annotations" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/map" />
+            <option value="$PROJECT_DIR$/stock" />
+            <option value="$PROJECT_DIR$/ximon" />
+            <option value="$PROJECT_DIR$/ximon-core" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

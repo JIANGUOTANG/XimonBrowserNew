@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\out_to_right.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\bundles\\debug\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\in_from_left.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\bundles\\debug\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\in_from_right.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\bundles\\debug\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\out_to_left.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\bundles\\debug\\res\\anim\\out_to_left.xml"
+    }
+]

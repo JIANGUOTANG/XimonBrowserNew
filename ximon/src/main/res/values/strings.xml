@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ximon</string>
+    <string name="password">密码</string>
+    <string name="userName">用户名</string>
+    <string name="login">登录</string>
+    <string name="name">名称</string>
+    <string name="file">文件</string>
+    <string name="address">地址</string>
+    <string name="code_number">标识</string>
+    <string name="finish">完成</string>
+    <string name="choice">选择</string>
+    <string name="time">时长</string>
+    <string name="upload_by_file">通过文件上传</string>
+    <string name="upload_by_url">通过链接上传</string>
+    <string name="your_machine">你的广告机</string>
+    <string name="main">主页</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="charge_control">充电管理</string>
+    <string name="monitor_control">监控管理</string>
+    <string name="lamp_control">灯光控制</string>
+    <string name="weather_control">气候信息</string>
+    <string name="light_control">灯杆管理</string>
+
+</resources>

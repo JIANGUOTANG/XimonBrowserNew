@@ -1,0 +1,1 @@
+include ':app', ':map', ':stock', ':flight', ':gpiotest', ':ad', ':ximon', ':ipctest', ':login', ':latte-annotations', ':ximon-core', ':camer'

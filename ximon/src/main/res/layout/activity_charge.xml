@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EFEFEF"
+    android:gravity="center_horizontal">
+    <include layout="@layout/toor_bar" />
+    <jian.com.ximon.charge.ChargeView
+        android:id="@+id/chargeView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#99999f"
+        android:layout_weight="4"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:layout_margin="1dp"
+            android:textSize="20sp"
+            android:text="定时开关"
+            android:layout_height="match_parent" />
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:text="待定"
+            android:layout_margin="1dp"
+            android:background="@color/white"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btSwitch"
+        android:layout_margin="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_red_light"
+        android:text="通电/断电"
+        />
+</LinearLayout>

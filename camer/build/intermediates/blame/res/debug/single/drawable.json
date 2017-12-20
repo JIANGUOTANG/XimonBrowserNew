@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\tv_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_main_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\layout_camera_fragment_main_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\toggle_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_item_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_item_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\round_loading_rate_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\round_loading_rate_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_music.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_music.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_bottom_item_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_bottom_item_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_opposite.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_bg_opposite.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_bg_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_btn_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\85d1f9ff624361de304ab4e92b93c0c9502c174c\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_main_title.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_back_main_title.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_box_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_box_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_item_bg_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_item_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi_one_key_noice.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\wifi_one_key_noice.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\85d1f9ff624361de304ab4e92b93c0c9502c174c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\click_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\click_btn_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_alarm.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_alarm.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn_style.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\toggle_btn_style.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_rotation.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_rotation.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_listen.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_listen.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_item_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\main_tab_item_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_top_item_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_top_item_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_bg_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_btn_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\add_camera_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\add_camera_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_box_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\layout_box_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_item_bg_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_item_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_layout_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_setting_layout_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_add_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\layout_camera_fragment_add_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\add_camera_round_ll.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\add_camera_round_ll.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_record.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_record.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_sun.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_sun.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_setting.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_setting.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\tv_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\nor_background_ll.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\nor_background_ll.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_sel.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_bg_sel.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_snapshot_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\alive_snapshot_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_click_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\layout_click_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_play_btn.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\playback_play_btn.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\85d1f9ff624361de304ab4e92b93c0c9502c174c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\round_corner_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_nor.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_snapshot.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_snapshot.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_alert.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_alert.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_preset.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_live_preset.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_title_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_title_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\radio_bg.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\tv_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_pre.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\click_btn_pre.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\5263299309e3bf6f56235c9e448e6dc8909683df\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\11833\\.android\\build-cache\\85d1f9ff624361de304ab4e92b93c0c9502c174c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_microphone.xml",
+        "source": "F:\\beifen\\work\\xunfei\\XimonBrowser\\camer\\src\\main\\res\\drawable\\btn_microphone.xml"
+    }
+]
